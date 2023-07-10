@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+mini project-OrangeHRM 1.	https://docs.google.com/spreadsheets/d/1jjrUItHKdKMMRydBEQpLrk8ddCpQdjLftNyqZV-uv5M/edit#gid=427386003
+OrangeHRM 2.https://docs.google.com/spreadsheets/d/1jjrUItHKdKMMRydBEQpLrk8ddCpQdjLftNyqZV-uv5M/edit#gid=1683959505
+Main Project- Trackerjet-https://docs.google.com/spreadsheets/d/1oH8yPKEh_ykfq1qr8LXGG0CbtGEw4ooFxBTzsL24OfU/edit#gid=0
