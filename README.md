@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 mini project-OrangeHRM 1.	https://docs.google.com/spreadsheets/d/1jjrUItHKdKMMRydBEQpLrk8ddCpQdjLftNyqZV-uv5M/edit#gid=427386003
 OrangeHRM 2.https://docs.google.com/spreadsheets/d/1jjrUItHKdKMMRydBEQpLrk8ddCpQdjLftNyqZV-uv5M/edit#gid=1683959505
-Main Project- Trackerjet-https://docs.google.com/spreadsheets/d/1oH8yPKEh_ykfq1qr8LXGG0CbtGEw4ooFxBTzsL24OfU/edit#gid=0
+
+Main Project- Trackerjet
+FRONT END-HTML CSS
+SERVER SIDE - DJANJO
+BACK END - DJANGO
+RDBMS - MYSQL
+FRAMEWORK - PYTHON DJANGO
+
+
+https://docs.google.com/spreadsheets/d/1oH8yPKEh_ykfq1qr8LXGG0CbtGEw4ooFxBTzsL24OfU/edit#gid=0
