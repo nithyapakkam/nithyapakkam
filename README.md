@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-mini project-OrangeHRM 1.	https://docs.google.com/spreadsheets/d/1jjrUItHKdKMMRydBEQpLrk8ddCpQdjLftNyqZV-uv5M/edit#gid=427386003
-OrangeHRM 2.https://docs.google.com/spreadsheets/d/1jjrUItHKdKMMRydBEQpLrk8ddCpQdjLftNyqZV-uv5M/edit#gid=1683959505
+mini project-OrangeHRM :
+1.	https://docs.google.com/spreadsheets/d/1jjrUItHKdKMMRydBEQpLrk8ddCpQdjLftNyqZV-uv5M/edit#gid=427386003
+2.https://docs.google.com/spreadsheets/d/1jjrUItHKdKMMRydBEQpLrk8ddCpQdjLftNyqZV-uv5M/edit#gid=1683959505
 
-Main Project- Trackerjet
+Main Project- Trackerjet:
+
 FRONT END-HTML CSS
 SERVER SIDE - DJANJO
 BACK END - DJANGO
